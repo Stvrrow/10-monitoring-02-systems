@@ -161,3 +161,5 @@ P.S.: если при запуске некоторые контейнеры б�
 веб-интерфейсе базы telegraf.autogen . Там должны появиться метрики, связанные с docker.
 
 Факультативно можете изучить какие метрики собирает telegraf после выполнения данного задания.
+
+![measurments](https://github.com/Stvrrow/10-monitoring-02-systems/blob/main/img/img3.png)
