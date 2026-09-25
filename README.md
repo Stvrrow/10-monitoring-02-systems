@@ -162,4 +162,5 @@ P.S.: если при запуске некоторые контейнеры б�
 
 Факультативно можете изучить какие метрики собирает telegraf после выполнения данного задания.
 
+**Решение:**
 ![measurments](https://github.com/Stvrrow/10-monitoring-02-systems/blob/main/img/img3.png)
